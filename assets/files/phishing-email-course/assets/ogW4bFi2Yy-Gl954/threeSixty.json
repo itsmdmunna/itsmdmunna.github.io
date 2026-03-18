@@ -1,0 +1,47 @@
+{
+  "version": "3.112.36406.0",
+  "course_id": "5ZOGR9tkMuy",
+  "title": "Steps to Identify a Phishing Email",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Identify Phishing Email"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qqYlOGSt4I",
+      "title": "Scenario email",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6jGMr1fwgYD",
+      "title": "Email Analysis",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6GlhGMvRxaB",
+      "title": "Spelling Mistakes",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6jw85UmcKg9",
+      "title": "End Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6MnLunrPwEO",
+      "title": "Email Header Details",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
